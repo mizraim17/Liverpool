@@ -1,0 +1,8 @@
+@import "../../../assets/variables";
+
+.Navbar {
+  background-color: $color-pink2;
+  &__logo {
+    max-width: 170px;
+  }
+}
